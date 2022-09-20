@@ -10,7 +10,7 @@ print ("")
 print ("")
 print ('  \033[1;32mﺔﯾﺤﺿ IP بﺗڪأ \033[1;31m1,2,')
 v7x2 = input (" \033[1;33mIP\033[1;31m==> ")
-if v7x2 == 'ip' :
+if v7x2 == '1' :
         os.system ('clear')
         os.system ('wget https://raw.githubusercontent.com/Hacker-gold/Hack/main/IMG_20220920_212747_674.jpg?token=GHSAT0AAAAAABY4MQPA4YTRLRWWRBSXEVNMYZKEYVQ')
         os.system ('wget https://raw.githubusercontent.com/Hacker-gold/Hack/main/IMG_20220920_212750_176.jpg?token=GHSAT0AAAAAABY4MQPAZG3BWSOABHHA5XY2YZKEZAA')
@@ -36,5 +36,5 @@ if v7x2 == 'ip' :
         print ("")
         print (' \033[1;31mﺔﯾﺤﺿ عﻗوﻣ: \033[1;32m https://shortest.link/4hw1')
         print ("")
-        print (' \033[1;31m: \033[1;32m📁📂 تاﻓﻟﻣﻟ  يﻓ ﺔﯾﺤﺿ روﺻ ﻟﯾﻣﺤﺗ مﺗ') 
+        print (' \033[1;31m: \033[1;32m📁📂 fx9 تاﻓﻟﻣﻟ  يﻓ ﺔﯾﺤﺿ روﺻ ﻟﯾﻣﺤﺗ مﺗ') 
         os.system ('figlet')
